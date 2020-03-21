@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p_one {
+    margin-bottom: -15px;
+}
+
+.p_two {
+    margin-top: -16px;
+    margin-bottom: -18px;
+    margin-left: 66px;
+}
+
+.p_three {
+    margin-left: 66px;
+}
+ .div_one {
+     font-family: monospace;
+     font-size: 15px;
+     font-weight: 200;
+ }
