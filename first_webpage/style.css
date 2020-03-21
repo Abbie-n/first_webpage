@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: serif;
 }
 
 .p_one {
@@ -9,14 +9,13 @@ body {
 .p_two {
     margin-top: -16px;
     margin-bottom: -18px;
-    margin-left: 66px;
+    margin-left: 62px;
 }
 
 .p_three {
-    margin-left: 66px;
+    margin-left: 62px;
 }
  .div_one {
      font-family: monospace;
-     font-size: 15px;
-     font-weight: 200;
+     font-size: 14px;
  }
